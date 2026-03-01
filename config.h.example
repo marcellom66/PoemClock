@@ -1,0 +1,8 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+// === CONFIGURAZIONE PRIVATA (DA NON CARICARE SU GITHUB) ===
+// Rinomina questo file in config.h e inserisci l'IP del tuo server
+#define POEM_SERVER_URL "http://YOUR_SERVER_IP:8000"
+
+#endif

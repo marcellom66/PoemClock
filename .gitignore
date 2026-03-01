@@ -1,0 +1,7 @@
+# Arduino
+config.h
+*.o
+*.elf
+*.bin
+.DS_Store
+nbiot/
