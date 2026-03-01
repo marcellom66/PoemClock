@@ -33,5 +33,7 @@ The **Poem Clock** is more than just a timepiece; it's a piece of kinetic art th
 ## 📱 Architecture
 The project follows an **Edge-to-Cloud** architecture, delegating heavy AI generation to a remote server while keeping the ESP32 optimized for low-power display management and cellular timing.
 
+For a deep dive into the end-to-end data flow (from Config Portal to AI generation and E-Ink rendering), check out our [Detailed System Architecture](system_architecture.md).
+
 ---
 *Created by Marcello Mangione (Elettronica Mangione - R&D Hardware/Embedded).*
