@@ -3,7 +3,7 @@
 
 An ultra-realistic, IoT-enabled clock that displays dynamic poetry fetched via cellular network (NB-IoT).
 
-
+poem_clock_preview.png
 
 ## 🕰️ Overview
 The **Poem Clock** is more than just a timepiece; it's a piece of kinetic art that updates its time via atomic-accuracy cellular signals and displays curated poetry or classic quotes. Designed for low power and high visual impact, it uses a custom-coded 7-segment engine to mimic premium hardware displays on e-paper.
