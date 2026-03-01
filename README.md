@@ -35,5 +35,8 @@ The project follows an **Edge-to-Cloud** architecture, delegating heavy AI gener
 
 For a deep dive into the end-to-end data flow (from Config Portal to AI generation and E-Ink rendering), check out our [Detailed System Architecture](system_architecture.md).
 
+## 📄 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 ---
 *Created by Marcello Mangione (Elettronica Mangione - R&D Hardware/Embedded).*
